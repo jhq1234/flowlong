@@ -32,16 +32,19 @@
 30-second audio-video joint generation from [LTX-2](https://github.com/Lightricks/LTX-Video). Click ▶ to play with sound.
 
  **🔊 Click the unmute icon to hear sound.**
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/90231ac5-f707-434f-9a1c-9b050672266c" controls width="50%"></video>
-</p>
+
+https://github.com/user-attachments/assets/c88c5821-def7-409c-8791-1810f7700b36
+
 
 
 ## 🎬 Text to Video
 
 30-second video generation from [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5).
 
-https://github.com/user-attachments/assets/64f4b6aa-76dc-47d4-86da-675fb107b02a
+
+https://github.com/user-attachments/assets/3a3f2d94-4470-4ce4-a0ec-dae6b8a8787f
+
+
 
 ## 🏞 Text to 3D Gaussian Splatting
 
