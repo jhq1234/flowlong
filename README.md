@@ -33,7 +33,7 @@
 
  **🔊 Click the unmute icon to hear sound.**
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/90231ac5-f707-434f-9a1c-9b050672266c" controls width="70%"></video>
+  <video src="https://github.com/user-attachments/assets/90231ac5-f707-434f-9a1c-9b050672266c" controls width="50%"></video>
 </p>
 
 
