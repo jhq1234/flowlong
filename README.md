@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-        <a href=""><img src='https://img.shields.io/badge/arXiv-2605.20910-b31b1b.svg' alt='Paper PDF'></a>
+        <a href="https://arxiv.org/abs/2605.20910"><img src='https://img.shields.io/badge/arXiv-2605.20910-b31b1b.svg' alt='Paper PDF'></a>
         <a href="https://flowlong-video.github.io/"><img src='https://img.shields.io/badge/Project_Page-FlowLong-green' alt='Project Page'></a>
 </p>
 
