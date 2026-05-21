@@ -25,3 +25,30 @@
 ## 🔥 News
 
 - [2026.05.21] Our paper is now available on arXiv!
+
+
+## 🎵 Text to Audio-Video Joint Generation
+
+30-second audio-video joint generation from [LTX-2](https://github.com/Lightricks/LTX-Video). Click ▶ to play with sound.
+
+<p align="center">
+  <video src="https://github.com/jhq1234/flowlong/raw/master/assets/audiovideo_drummer.mp4" controls width="80%"></video>
+</p>
+
+
+## 🎬 Text to Video
+
+30-second video generation from [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5).
+
+<p align="center">
+  <video src="https://github.com/jhq1234/flowlong/raw/master/assets/video_kangaroo.mp4" controls width="80%"></video>
+</p>
+
+
+## 🏞 Text to 3D Gaussian Splatting
+
+Long text-to-3DGS generation by extending [VIST3A](https://github.com/qihang-zhang/VIST3A) ([Wan 2.1-14B](https://github.com/Wan-Video/Wan2.1) + [AnySplat](https://github.com/OpenGVLab/AnySplat)).
+
+<p align="center">
+  <video src="https://github.com/jhq1234/flowlong/raw/master/assets/3dgs_suburban.mp4" controls width="80%"></video>
+</p>
