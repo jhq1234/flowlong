@@ -33,7 +33,8 @@
 
  **🔊 Click the unmute icon to hear sound.**
 
-https://github.com/user-attachments/assets/c88c5821-def7-409c-8791-1810f7700b36
+
+https://github.com/user-attachments/assets/953bc66c-d000-4edf-a66e-09b9c4a14745
 
 
 
@@ -41,15 +42,12 @@ https://github.com/user-attachments/assets/c88c5821-def7-409c-8791-1810f7700b36
 
 30-second video generation from [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5).
 
-
-https://github.com/user-attachments/assets/3a3f2d94-4470-4ce4-a0ec-dae6b8a8787f
-
+https://github.com/user-attachments/assets/2d63fae4-0355-4e7c-9414-36eb3615051f
 
 
 ## 🏞 Text to 3D Gaussian Splatting
 
 Long text-to-3DGS generation by extending [VIST3A](https://github.com/qihang-zhang/VIST3A) ([Wan 2.1-14B](https://github.com/Wan-Video/Wan2.1) + [AnySplat](https://github.com/OpenGVLab/AnySplat)).
 
-
-https://github.com/user-attachments/assets/06ae13a0-adfe-4a16-91be-fecdf8021e4e
+https://github.com/user-attachments/assets/3e5d985e-058e-4030-a21b-6ddb104ab2e2
 
