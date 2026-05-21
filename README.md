@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/e4f4ee0e-53b0-4cdc-9111-25630fcf0693
 <h2 align="center">
   <em>FlowLong: Inference-time Long Video Generation via <br>
     Manifold-constrained Tweedie Matching</em>
