@@ -10,8 +10,9 @@
 
 
 <p align="center">
-  <img width="6150" height="1686" alt="main" src="https://github.com/user-attachments/assets/REPLACE-WITH-MAIN-FIGURE-ID" />
+  <img width="5683" height="1650" alt="main_pipe" src="https://github.com/user-attachments/assets/bb31eac9-337d-4ffa-9a82-79851499d602" />
 </p>
+
 
 
 ***TL;DR:*** FlowLong is a **training-free, model-agnostic inference-time** method that extends pretrained flow-based video diffusion models beyond their native generation horizon — works uniformly for text-to-video, audio-video joint, and text-to-3D scene generation.
