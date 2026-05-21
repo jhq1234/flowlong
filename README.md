@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/e4f4ee0e-53b0-4cdc-9111-25630fcf0693
 <h2 align="center">
   <em>FlowLong: Inference-time Long Video Generation via <br>
     Manifold-constrained Tweedie Matching</em>
@@ -37,12 +39,12 @@
 https://github.com/user-attachments/assets/953bc66c-d000-4edf-a66e-09b9c4a14745
 
 
-
 ## 🎬 Text to Video
 
 30-second video generation from [HunyuanVideo-1.5](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5).
 
-https://github.com/user-attachments/assets/2d63fae4-0355-4e7c-9414-36eb3615051f
+
+https://github.com/user-attachments/assets/45a07be2-a2c5-42bd-b8dd-296e5dc74281
 
 
 ## 🏞 Text to 3D Gaussian Splatting
