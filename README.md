@@ -30,6 +30,7 @@
 ## 🎵 Text to Audio-Video Joint Generation
 
 30-second audio-video joint generation from [LTX-2](https://github.com/Lightricks/LTX-Video). Click ▶ to play with sound.
+
  **🔊 Click the unmute icon to hear sound.**
 
 https://github.com/user-attachments/assets/90231ac5-f707-434f-9a1c-9b050672266c
