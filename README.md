@@ -1,3 +1,4 @@
+<img width="3445" height="998" alt="main_pipe-1" src="https://github.com/user-attachments/assets/62a4e5f7-7a14-4633-8a7d-f3809dc0357c" />
 <h2 align="center">
   <em>FlowLong: Inference-time Long Video Generation via <br>
     Manifold-constrained Tweedie Matching</em>
@@ -10,7 +11,7 @@
 
 
 <p align="center">
-  <img width="5683" height="1650" alt="main_pipe" src="https://github.com/user-attachments/assets/bb31eac9-337d-4ffa-9a82-79851499d602" />
+  <img width="3445" height="998" alt="main_pipe-1" src="https://github.com/user-attachments/assets/7b219c5a-f599-413b-b859-a36597c691b7" />
 </p>
 
 
